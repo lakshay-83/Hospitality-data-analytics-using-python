@@ -7,7 +7,7 @@
 
     **3.** extract relevant features from the raw data and concating and appending data from various tables 
 
-    -  # This project involve some basic application of python libraries like pandas and involve importing _[csv files](https://github.com/lakshay-83/Hospitality-data-analytics-using-python/tree/main/datasets) in _[jupyter notebook]() and generating insights from the said data
+    -  # This project involve some basic application of python libraries like pandas and involve importing _[csv files](https://github.com/lakshay-83/Hospitality-data-analytics-using-python/tree/main/datasets) in _[jupyter notebook](https://github.com/lakshay-83/Hospitality-data-analytics-using-python/blob/main/Hospitality%20Data%20Analytics.ipynb) and generating insights from the said data
 
 
 
